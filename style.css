@@ -3,7 +3,22 @@
     margin: 0px auto;
 } */
 
+img{
+    width: 95%;
+}
 /* Logo style */
 #logo{
     width: 50px;
+}
+.myColor{
+    color: #c07b31;
+}
+.myButton{
+	color: #c07b31;
+  	border-color: #c07b31;
+}
+
+.myButton:hover{
+	background-color: #c07b31;
+ 	border-color: #c07b31;
 }
