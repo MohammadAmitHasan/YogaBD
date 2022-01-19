@@ -5,12 +5,21 @@
 .myColor{
     color: #c07b31;
 }
-.myButton{
+.myOutlineButton{
 	color: #c07b31;
   	border-color: #c07b31;
 }
 
-.myButton:hover{
+.myOutlineButton:hover{
 	background-color: #c07b31;
  	border-color: #c07b31;
+}
+
+.myButton{
+	color: white;
+	background-color: #c07b31;
+}
+.myButton:hover{
+	background-color: #9b6327;
+	color: white;
 }
